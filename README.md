@@ -88,16 +88,7 @@ header p {
 }
 
 /* DONATION BOX */
-.donation-box {
-    background-color: #ffffff;
-    width: 90%;
-    max-width: 400px;
-    margin: 40px auto;
-    padding: 25px;
-    border-radius: 10px;
-    box-shadow: 0 8px 20p
-document.getElementById("donationForm").addEventListener("submit", function(e) {
-    e.preventDefault();
+.donation-box 
 
     alert(
         "Thank you for donating to Manuexe 💙\n" +
